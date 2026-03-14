@@ -1,0 +1,1 @@
+Generate ONLY a one-line Git commit message in English (max 72 chars) based on `git diff --cached`, using Conventional Commits format (e.g., feat:, fix:), imperative mood, and summarizing both the change and its inferred intent without any preamble or backticks.
